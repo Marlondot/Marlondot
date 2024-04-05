@@ -7,13 +7,16 @@ I'm a Software Engineer with experience in cleansing, clustering, analysis, and 
 - ⚙️ I've set up GitHub Actions pipelines for CI testing of web applications.
 - 📊 I've been using pandas for data cleansing, seaborn for analysis and visualization, and Scikit-learn for classification, clustering, and data preprocessing.
 
+[![Cloud Skills](https://skillicons.dev/icons?i=aws,gcp,linux,flask,py,postgres,githubactions,sklearn&perline=3)](https://skillicons.dev)
+
+
+<!--
+
 [![Cloud Skills](https://skillicons.dev/icons?i=aws,gcp,linux&perline=3)](https://skillicons.dev)
 [![Dev Skills](https://skillicons.dev/icons?i=flask,py,postgres&perline=3)](https://skillicons.dev)
 [![CI Skills](https://skillicons.dev/icons?i=githubactions&perline=1)](https://skillicons.dev)
 [![AI Skills](https://skillicons.dev/icons?i=sklearn&perline=1)](https://skillicons.dev)
 
-
-<!--
 **Marlondot/Marlondot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
