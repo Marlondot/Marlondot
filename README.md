@@ -6,7 +6,7 @@ I'm a Software Engineer with experience in cleansing, clustering, analysis, and 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,linux,flask,py,postgres,githubactions,sklearn&perline=3" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,linux,flask,py,postgres,githubactions,sklearn&perline=4" />
   </a>
 </p>
 
