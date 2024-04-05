@@ -16,6 +16,10 @@ I'm a Software Engineer with experience in cleansing, clustering, analysis, and 
 - 📊 I've been using pandas for data cleansing, seaborn for analysis and visualization, and Scikit-learn for classification, clustering, and data preprocessing.
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marlondot&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marlondot&hide_progress=true)
+
+
 <!--
 
 [![Cloud Skills](https://skillicons.dev/icons?i=aws,gcp,linux&perline=3)](https://skillicons.dev)
