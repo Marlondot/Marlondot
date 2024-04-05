@@ -7,8 +7,11 @@ I'm a Software Engineer with experience in cleansing, clustering, analysis, and 
 - ⚙️ I've set up GitHub Actions pipelines for CI testing of web applications.
 - 📊 I've been using pandas for data cleansing, seaborn for analysis and visualization, and Scikit-learn for classification, clustering, and data preprocessing.
 
-[![Cloud Skills](https://skillicons.dev/icons?i=aws,gcp,linux,flask,py,postgres,githubactions,sklearn&perline=3)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,linux,flask,py,postgres,githubactions,sklearn&perline=3" />
+  </a>
+</p>
 
 <!--
 
